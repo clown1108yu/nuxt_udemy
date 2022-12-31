@@ -13,7 +13,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vue-scrollto": "^2.13.0",
     "vue-select": "^2.5.1"
   },
